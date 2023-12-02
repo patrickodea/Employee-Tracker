@@ -32,7 +32,7 @@ Employee.init({
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: "Department",
+    modelName: "Employee",
 });
 
 module.exports = Employee;
